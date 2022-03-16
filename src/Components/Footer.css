@@ -1,4 +1,11 @@
-h1{
+.footer-container p{
+    height: 69vh;
     display: flex;
-    
+    justify-content: center;
+    align-items: flex-end;
+    color: black;
+    font-size: 1rem;
 }
+
+
+

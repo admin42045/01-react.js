@@ -1,12 +1,21 @@
-.app-container{
-    text-align: center;
-    background-color:#129CF3; 
-    border: 0.1rem;
-    padding: 0.5rem;
-    box-shadow: 10px 15x 25px black;
-    border-radius: 0.5rem;
-    margin: 1px;
-}
-h1{
+.header-container a{
     color: black;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+.header-container li {
+  list-style: none;
+   padding-right: 1rem;
+}
+
+.header-container ul {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding-bottom: 5rem;
+}
+
+.logo {
+    padding-left: 0px;
+    padding-right: 10rem;
 }
