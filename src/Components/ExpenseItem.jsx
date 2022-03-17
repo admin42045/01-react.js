@@ -2,7 +2,7 @@ import './ExpenseItem.css';
 
 function ExpenseItem(){
     return (
-        <div className="expense-Item">
+        <div className='expense-Item'>
             <div>February 01 2022</div>
             <div className='expense-Item-desc'>
                 <h2>Mobile Recharge</h2>
